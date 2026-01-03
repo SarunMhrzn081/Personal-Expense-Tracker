@@ -78,7 +78,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body>
     <div class="auth-container">
         <div class="logo">
-            <h1><i class="fas fa-wallet"></i> Expense Tracker</h1>
+            <h1><i class="fas fa-wallet"></i>  Personal Expense Tracker</h1>
             <p>Sign in to your account</p>
         </div>
         
